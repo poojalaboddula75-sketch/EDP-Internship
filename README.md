@@ -39,6 +39,17 @@ This repository contains my weekly projects and learning work completed during t
 - Matplotlib
 - Model prediction analysis
 
+### Week 7 - Prediction Error Analysis
+- Prediction error calculation
+- Absolute error calculation
+- MAE calculation
+- Predicted vs Actual visualization
+
+### Week 8 - Documentation
+- Organized weekly project files
+- Created and updated README documentation
+- Maintained the complete internship work in GitHub
+
 ## Technologies Used
 
 - Python
